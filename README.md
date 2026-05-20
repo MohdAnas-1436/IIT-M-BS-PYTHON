@@ -31,9 +31,8 @@ Here are the languages I used to weave these solutions together:
 ## 📂 What's Inside? 📦
 
 The repository is neatly organized into folders based on the course or topic. Inside each folder, you'll find:
-*   **Question files** (The problem statement) 📝
+*   **Week Wise Content** (Week1 to Week10) 📝
 *   **Source code** (My approach and logic) 💻
-*   **Test Cases** (Input/Output examples) 🖥️
 
 ---
 
