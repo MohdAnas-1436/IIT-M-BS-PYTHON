@@ -23,8 +23,6 @@ Welcome! This repository is my digital notebook and archive where I store all my
 Here are the languages I used to weave these solutions together:
 
 <div align="center">
-  <img src="https://img.shields.io/badge/C-A8B9E0?style=for-the-badge&logo=c&logoColor=white" alt="C Badge"/>
-  <img src="https://img.shields.io/badge/C%2B%2B-F2C9D8?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++ Badge"/>
   <img src="https://img.shields.io/badge/Python-FFF5BA?style=for-the-badge&logo=python&logoColor=gray" alt="Python Badge"/>
 </div>
 
