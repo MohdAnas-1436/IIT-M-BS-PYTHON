@@ -6,7 +6,7 @@
 <img src="https://i.pinimg.com/originals/a2/8b/66/a28b6682708b70db65e5e01bd97f3b8b.gif" width="300" alt="Cute aesthetic typing gif">
 
 <!-- Animated Typing Text -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Welcome+to+my+study+space!+(%E2%9C%A7%CF%89%E2%9C%A7);Graded+Programming+Assignments;C,+C%2B%2B,+and+Python+Magic!+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Quicksand&weight=500&size=22&pause=1000&color=FFB6C1&center=true&vCenter=true&width=435&lines=Welcome+to+my+study+space!+(%E2%9C%A7%CF%89%E2%9C%A7);Graded+Programming+Assignments;Python+Magic!+%E2%9C%A8)](https://git.io/typing-svg)
 
 *A cozy little archive of my programming assignment solutions.* ₊˚.༄
 
