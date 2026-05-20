@@ -53,7 +53,7 @@ True learning happens when you wrestle with the problem yourself! Please use thi
 ### 💌 Thanks for visiting!
 
 <!-- Cute Footer GIF -->
-<img src="https://media.giphy.com/media/LpQyZ1mH2AIfY4L7qX/giphy.gif" width="150" alt="Cute bye gif">
+<img src="https://media1.tenor.com/images/84320683ad7170f5da86cf1a9616d640/tenor.gif?itemid=14850629" width="150" alt="Cute bye gif">
 
 *“Code with heart and study smart.”* 🌟
 
